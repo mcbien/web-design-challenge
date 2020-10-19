@@ -1,0 +1,23 @@
+.justify-content-end {
+    justify-content: end;
+}
+
+.no-marginLR {
+    margin-left:0;
+    margin-right:0;
+}
+
+h3 {
+    color: white;
+    background-color: teal;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    height: 60px;
+    padding: 10px;
+}
+
+.box {
+    height: 10px;
+    padding: 20px;
+}
+
