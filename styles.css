@@ -33,7 +33,7 @@
 
 .col-box {
     background-color: white;
-    padding: 20px;
+    padding: 40px;
 }
 
 .summary-resize {
@@ -51,4 +51,12 @@ p {
     height: 130px;
     width: 130px;
     display: inline-block;
+}
+
+h2 {
+    color: rgb(74, 170, 165);
+}
+
+h3 {
+    color: rgb(74, 170, 165);
 }
