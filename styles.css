@@ -1,27 +1,17 @@
-.justify-content-end {
-    justify-content: end;
-}
-
-.no-marginLR {
-    margin-left:0;
-    margin-right:0;
-}
-
 .navbar-label {
     color: white;
     font-family: 'Times New Roman';
-    padding: 12px;
+    padding: 10px;
     font-weight: bold;
     background-color: rgb(74, 170, 165);
+    text-align: center;
 }
 
 .nav-box {
     /* height: 100px; */
     background-color: rgb(74, 170, 165);
-    margin: 0px;
     height: 60px;
     width: 140px;
-    text-decoration:
 }
 
 .nav-height {
@@ -30,4 +20,9 @@
 
 .body {
     background-color: lightgrey;
+    box-sizing: border-box;
+    min-height: 100vh;
+    margin: 0;
+    padding-top: 1px;
+    border-bottom: solid 10px rgb(74, 170, 165);
 }
