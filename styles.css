@@ -26,3 +26,29 @@
     padding-top: 1px;
     border-bottom: solid 10px rgb(74, 170, 165);
 }
+
+.cont-padding {
+    padding-top: 100px;
+}
+
+.col-box {
+    background-color: white;
+    padding: 20px;
+}
+
+.summary-resize {
+    float: left;
+    height: 254px;
+    width: 279px;
+}
+
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.viz-resize {
+    height: 130px;
+    width: 130px;
+    display: inline-block;
+}
