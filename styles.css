@@ -7,17 +7,27 @@
     margin-right:0;
 }
 
-h3 {
+.navbar-label {
     color: white;
-    background-color: teal;
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman';
+    padding: 12px;
+    font-weight: bold;
+    background-color: rgb(74, 170, 165);
+}
+
+.nav-box {
+    /* height: 100px; */
+    background-color: rgb(74, 170, 165);
+    margin: 0px;
     height: 60px;
-    padding: 10px;
+    width: 140px;
+    text-decoration:
 }
 
-.box {
-    height: 10px;
-    padding: 20px;
+.nav-height {
+    height: 60px;
 }
 
+.body {
+    background-color: lightgrey;
+}
