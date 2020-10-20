@@ -42,6 +42,17 @@
     width: 279px;
 }
 
+.plot-image-box {
+    position: relative;
+}
+
+.plot-img-resize {
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-width: 100%;
+}
+
 p {
     text-align: justify;
     text-justify: inter-word;
