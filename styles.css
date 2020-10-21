@@ -6,14 +6,16 @@
     background-color: rgb(74, 170, 165);
     text-align: center;
     position: absolute;
+    left: 0px;
+    top: 0px;
     height: 60px;
 }
 
 .nav-box {
     height: 60px;
     background-color: rgb(74, 170, 165);
-    /* height: 60px;
-    width: 140px; */
+    left: 0px;
+    /* position: absolute; */
 }
 
 .nav-height {
