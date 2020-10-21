@@ -47,10 +47,8 @@
 }
 
 .plot-img-resize {
-    position: absolute;
-    top: 0;
-    left: 0;
-    max-width: 100%;
+    /* position: absolute; */
+    width: 95%;
 }
 
 p {
