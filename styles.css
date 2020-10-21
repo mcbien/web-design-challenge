@@ -65,13 +65,13 @@ p {
     display: inline-block;
 }
 
-.comp-resize {
+/* .comp-resize {
     height: 45%;
     width: 45%;
     display: inline-block;
     /* display: block; */
-    margin-left: 30px;
-}
+    /* margin-left: 30px;
+} */
 
 h2 {
     color: rgb(74, 170, 165);
