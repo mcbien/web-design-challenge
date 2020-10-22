@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages mcbien
 
 You can use the [editor on GitHub](https://github.com/mcbien/web-design-challenge/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
